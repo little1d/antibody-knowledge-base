@@ -1,0 +1,20 @@
+{
+  "name": "antibody-knowledge-base",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "docs:check": "vitepress build"
+  },
+  "devDependencies": {
+    "lucide-vue-next": "1.0.0",
+    "vitepress": "1.6.4",
+    "vue": "^3.5.13"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
