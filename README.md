@@ -53,19 +53,28 @@
 
 ### 待办事项
 
-- [ ] 完成 12 个 Chapter 的正文撰写（当前主要为提纲和草稿阶段）
-- [ ] 补充关键术语的交叉引用和术语速查条目
-- [ ] 完善各 Chapter 的 README 导航和推荐阅读
-- [ ] 补充案例研究，串联多个章节内容
+- [ ] Chapter 01 · 免疫系统与抗体的产生
+- [ ] Chapter 02 · 抗体的结构、功能与分子形式
+- [ ] Chapter 03 · 从靶点和抗原到抗体发现
+- [ ] Chapter 04 · 抗体文库、展示与筛选
+- [ ] Chapter 05 · 抗体表征与实验评价
+- [ ] Chapter 06 · 抗体工程与分子优化
+- [ ] Chapter 07 · 特异性、成药性与多性质权衡
+- [ ] Chapter 08 · 开发候选物的选择
+- [ ] Chapter 09 · 临床前药理、安全性与转化研究
+- [ ] Chapter 10 · CMC、生产与质量控制
+- [ ] Chapter 11 · 临床、注册与商业化
+- [ ] Chapter 12 · AI 在抗体研发中的任务、价值与边界
+- [ ] 补充关键术语的术语速查条目
+- [ ] 补充案例研究，串联多个章节
 - [ ] 完善生命周期与 AI 任务映射
 - [ ] 补充和核实关键科学事实与来源
-- [ ] 统一术语写法和专业表述
 
 ## 维护约定
 
-维护者和 AI 工具在修改前应先阅读 [AGENTS.md](https://github.com/little1d/antibody-knowledge-base/blob/main/AGENTS.md)。新增内容优先进入已有 Topic；只有问题边界明显独立时才增加新页面。不要轻易改变 5 Part、12 Chapter 的主线结构。
+维护者和 AI 工具在修改前应先阅读 [AGENTS.md](https://github.com/little1d/antibody-knowledge-base/blob/main/AGENTS.md)。新增内容优先扩展现有 Chapter；只有问题边界明显独立时才增加新 Chapter。不要轻易改变 5 Part、12 Chapter 的主线结构。
 
-科学事实、实验指标和 AI 成熟度的来源应放在相应 Chapter README 或 Topic 内。公众号导出原文不进入仓库；附录材料保持只读。
+科学事实、实验指标和 AI 成熟度的来源应放在相应 Chapter 内。公众号导出原文不进入仓库；附录材料保持只读。
 
 ## 本地预览
 
