@@ -22,30 +22,30 @@
 
 ### Part 01：抗体基础
 
-1. [免疫系统与抗体的产生](chapters/part-01-foundations/01-immune-system-and-antibody-generation/)
-2. [抗体的结构、功能与分子形式](chapters/part-01-foundations/02-antibody-structure-function-and-formats/)
+1. [免疫系统与抗体的产生](chapters/part-01-foundations/01-immune-system-and-antibody-generation.md)
+2. [抗体的结构、功能与分子形式](chapters/part-01-foundations/02-antibody-structure-function-and-formats.md)
 
 ### Part 02：抗体发现与早期研究
 
-3. [从靶点和抗原到抗体发现](chapters/part-02-discovery-and-early-research/03-target-antigen-and-antibody-discovery/)
-4. [抗体文库、展示与筛选](chapters/part-02-discovery-and-early-research/04-library-display-and-screening/)
-5. [抗体表征与实验评价](chapters/part-02-discovery-and-early-research/05-characterization-and-assays/)
+3. [从靶点和抗原到抗体发现](chapters/part-02-discovery-and-early-research/03-target-antigen-and-antibody-discovery.md)
+4. [抗体文库、展示与筛选](chapters/part-02-discovery-and-early-research/04-library-display-and-screening.md)
+5. [抗体表征与实验评价](chapters/part-02-discovery-and-early-research/05-characterization-and-assays.md)
 
 ### Part 03：抗体工程与候选物选择
 
-6. [抗体工程与分子优化](chapters/part-03-engineering-and-candidate-selection/06-antibody-engineering-and-optimization/)
-7. [特异性、成药性与多性质权衡](chapters/part-03-engineering-and-candidate-selection/07-specificity-and-developability/)
-8. [开发候选物的选择](chapters/part-03-engineering-and-candidate-selection/08-candidate-selection/)
+6. [抗体工程与分子优化](chapters/part-03-engineering-and-candidate-selection/06-antibody-engineering-and-optimization.md)
+7. [特异性、成药性与多性质权衡](chapters/part-03-engineering-and-candidate-selection/07-specificity-and-developability.md)
+8. [开发候选物的选择](chapters/part-03-engineering-and-candidate-selection/08-candidate-selection.md)
 
 ### Part 04：从临床前到产业化
 
-9. [临床前药理、安全性与转化研究](chapters/part-04-development-and-commercialization/09-preclinical-and-translational-research/)
-10. [CMC、生产与质量控制](chapters/part-04-development-and-commercialization/10-cmc-manufacturing-and-quality/)
-11. [临床、注册与商业化](chapters/part-04-development-and-commercialization/11-clinical-regulatory-and-commercialization/)
+9. [临床前药理、安全性与转化研究](chapters/part-04-development-and-commercialization/09-preclinical-and-translational-research.md)
+10. [CMC、生产与质量控制](chapters/part-04-development-and-commercialization/10-cmc-manufacturing-and-quality.md)
+11. [临床、注册与商业化](chapters/part-04-development-and-commercialization/11-clinical-regulatory-and-commercialization.md)
 
 ### Part 05：AI for Antibody
 
-12. [AI 在抗体研发中的任务、价值与边界](chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/)
+12. [AI 在抗体研发中的任务、价值与边界](chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries.md)
 
 ## 当前状态
 
@@ -82,4 +82,4 @@ npm run docs:dev
 
 ## 贡献者
 
-- [little1d](https://github.com/little1d)
+<a href="https://github.com/little1d"><img src="https://github.com/little1d.png" width="48" height="48" alt="little1d" style="border-radius: 50%;" /></a>

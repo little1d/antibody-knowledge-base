@@ -1,6 +1,5 @@
 ---
 title: 学习路径
-status: draft
 last_reviewed: 2026-08-18
 tags:
   - roadmap
@@ -36,19 +35,10 @@ tags:
 
 如果你已经在做结构预测、亲和力预测、序列生成或主动学习，可以先阅读：
 
-1. [AI 在抗体研发中的任务、价值与边界](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/)
+1. [AI 在抗体研发中的任务、价值与边界](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries.md)
 2. [生命周期与 AI 任务映射](lifecycle-ai-map.md)
 
-也可以直接进入具体任务：
-
-- [从实验问题到 AI 任务](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/from-experimental-question-to-ai-task.md)
-- [抗体结构与复合物预测](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/structure-and-complex-prediction.md)
-- [亲和力与突变效应预测](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/affinity-and-mutation-effect-prediction.md)
-- [生成设计与候选排序](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/generative-design-and-candidate-ranking.md)
-- [主动学习与 Lab-in-the-loop](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/active-learning-and-lab-in-the-loop.md)
-- [基准、泛化与能力边界](../chapters/part-05-ai-for-antibody/12-ai-tasks-value-and-boundaries/benchmarks-generalization-and-boundaries.md)
-
-阅读某个 AI Topic 时，至少同时打开它链接的生命周期 Chapter，确认：
+阅读 AI 相关内容时，至少同时打开它链接的生命周期 Chapter，确认：
 
 - 模型输出支持什么研发决策；
 - 标签来自哪种实验；
