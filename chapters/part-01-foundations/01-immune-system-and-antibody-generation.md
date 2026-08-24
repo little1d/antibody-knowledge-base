@@ -10,20 +10,7 @@ tags:
 
 # 第 01 章：免疫系统与抗体的产生
 
-## 本章解决的问题
-
-抗体在免疫系统中承担什么角色？B 细胞如何产生数量极其庞大的抗体序列？天然免疫过程与实验室中的抗体工程有什么相似和不同？
-
-## 学习目标
-
-- 区分天然免疫和获得性免疫的基本职责。
-- 解释 B 细胞、浆细胞和记忆 B 细胞之间的关系。
-- 理解 V(D)J 重排、体细胞高频突变和类别转换如何产生抗体多样性。
-- 为理解抗体序列空间、抗体库数据和亲和力成熟建立生物学基础。
-
-## 前置知识
-
-不要求免疫学基础。读者只需知道细胞、蛋白质、DNA 和氨基酸序列的基本概念。
+本章是抗体药物研发知识库的起点，回答"抗体从哪里来"这一根本问题。它将帮助读者区分天然免疫和获得性免疫的基本职责，解释 B 细胞、浆细胞和记忆 B 细胞之间的关系，并理解 V(D)J 重排、体细胞高频突变和类别转换如何产生抗体多样性。不要求免疫学基础，读者只需知道细胞、蛋白质、DNA 和氨基酸序列的基本概念。
 
 ## 概念图或研发流程位置
 
@@ -44,23 +31,6 @@ tags:
 - 抗体属于获得性免疫中的体液免疫效应分子，不是感染后最早出现的防线。
 - 抗体多样性主要来自基因片段组合、连接区变化、重轻链配对和后续突变，而不是为每种抗体准备一个独立基因。
 - 天然亲和力成熟发生在 B 细胞选择过程中；实验室亲和力成熟借鉴"突变-选择-扩增"逻辑，但并不完整复制免疫系统。
-
-## 与上下游的关系
-
-本章是第 02 章结构与功能、第 04 章文库、第 06 章亲和力成熟和第 12 章序列表征学习的共同前置知识。
-
-## 常见误区
-
-- 把抗体理解成先天免疫系统的第一道防线。
-- 把天然 B 细胞成熟和体外文库筛选视为同一个过程。
-- 认为抗体多样性全部来自体细胞高频突变，忽略 V(D)J 组合和连接区多样性。
-
-## 推荐阅读与来源
-
-- Murphy, K., & Weaver, C. (2016). *Janeway's Immunobiology* (9th ed.). Garland Science. 第 1-5 章和第 10 章为本章提供标准免疫学框架。
-- Lefranc, M.-P. (2014). Immunoglobulin and T cell receptor genes: IMGT and the birth and rise of immunoinformatics. *Frontiers in Immunology*, 5, 22. IMGT 是抗体序列编号和基因片段分类的核心数据库。
-- Olsen, T. H., Boyles, F., & Deane, C. M. (2022). Observed Antibody Space: A diverse database of cleaned, annotated, and translated unpaired and paired antibody sequences. *Protein Science*, 31(1), 141-146. OAS 数据库是抗体序列分析的重要资源。
-- [单抗药物研发知识库](../../appendix/materials/单抗药物研发知识库.pdf)，第 2-3 页。
 
 ## 最近更新时间
 
@@ -274,3 +244,11 @@ B 细胞用组合重排产生初始多样性，再通过抗原驱动的克隆选
 
 - [抗体结构](../02-antibody-structure-function-and-formats)（第 02 章）
 - [抗体文库与展示技术](../../part-02-discovery-and-early-research/04-library-display-and-screening)（第 04 章）
+
+---
+
+## 推荐阅读与来源
+
+- Murphy, K., & Weaver, C. (2016). *Janeway's Immunobiology* (9th ed.). Garland Science. 第 1-5 章和第 10 章为本章提供标准免疫学框架。
+- Lefranc, M.-P. (2014). Immunoglobulin and T cell receptor genes: IMGT and the birth and rise of immunoinformatics. *Frontiers in Immunology*, 5, 22. IMGT 是抗体序列编号和基因片段分类的核心数据库。
+- Olsen, T. H., Boyles, F., & Deane, C. M. (2022). Observed Antibody Space: A diverse database of cleaned, annotated, and translated unpaired and paired antibody sequences. *Protein Science*, 31(1), 141-146. OAS 数据库是抗体序列分析的重要资源。
